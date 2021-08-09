@@ -5,5 +5,5 @@
 ### Test Styles
 **Bold** and _Italic_ and `Code` text
 
-[Go to Google](www.google.com)
+[Go to Google](https://www.google.com)
 
