@@ -17,15 +17,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Go to Google](www.google.com) and ![Image](https://media-exp1.licdn.com/dms/image/C4E03AQEYKOBH_45Hrg/profile-displayphoto-shrink_800_800/0/1606363450212?e=1634169600&v=beta&t=4TqZgdpBigFlhBV0s3QHGRmudOpGJIBOV_OXLaCWQDU)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anni-huang/anni-huang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
