@@ -13,24 +13,27 @@ I'ma keep it in a motion, keep it moving like kinetic </p>
 </blockquote>
 
 ## Computer Science Courses 
-# Currently taking:
-Professor: Yaakov Chaikin
-Course: HTML, CSS, and Javascript for Web Developers
+### Currently taking:
+Professor: Yaakov Chaikin\
+Course: HTML, CSS, and Javascript for Web Developers\
 https://www.coursera.org/learn/html-css-javascript-for-web-developers 
 
-# Completed:
-Course: NYU Tandon Bridge
-https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge
+### Completed:
+Course: NYU Tandon Bridge\
+Site: https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge \
+Certificate: https://www.credential.net/5f475576-0296-482d-95bd-b6fcb9f64ad7 \
 Offered by: NYU
 
-Course: 6.00.1x: Introduction to Computer Science and Programming Using Python
-Certificate: https://courses.edx.org/certificates/44079570f953485295745cc801b52ad0
+Course: 6.00.1x: Introduction to Computer Science and Programming Using Python\
+Certificate: https://courses.edx.org/certificates/44079570f953485295745cc801b52ad0 \
 Offered by: MIT
 
-Course: 6.00.2x: Introduction to Computational Thinking and Data Science
-Certificate: https://courses.edx.org/certificates/16a68a74413641a08a4b02e8dbc975db
+Course: 6.00.2x: Introduction to Computational Thinking and Data Science\
+Certificate: https://courses.edx.org/certificates/16a68a74413641a08a4b02e8dbc975db \
 Offered by: MIT
 
-Course: Computational Thinking for Problem Solving
-Certificate: https://coursera.org/share/596c2c9058317b7f36df0ef2c426e142
-Offered by: University of Pennsylvania
+Course: Computational Thinking for Problem Solving \
+Certificate: https://coursera.org/share/596c2c9058317b7f36df0ef2c426e142 \
+Offered by: University of Pennsylvania 
+
+
