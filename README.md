@@ -12,6 +12,9 @@ I'ma keep it in a motion, keep it moving like kinetic </p>
   <h3> - Astronaut in the Ocean</h3>
 </blockquote>
 
+## Projects
+Coming soon!
+
 ## Computer Science Courses 
 ### Currently taking:
 Professor: Yaakov Chaikin\
